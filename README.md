@@ -1,4 +1,4 @@
-# Encrypting-data-using-AWs-key-Management-Service
+# Encrypting and decrypting-data-using-AWs-key-Management-Service
 **creating file in ec2 and encrypting and decrypting that data using aws key management system**
 
 **1. Create AWS key Management service Key:**
